@@ -1,5 +1,5 @@
 .env
-_pycache_/
-handlers/_pycache_
-keyboards/_pycache_
-services/_pycache_
+__pycache__/
+handlers/__pycache__
+keyboards/__pycache__
+services/__pycache__
